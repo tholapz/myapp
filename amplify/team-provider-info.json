@@ -9,6 +9,11 @@
             "UnauthRoleName": "myapp-master-20190923200337-unauthRole",
             "StackName": "myapp-master-20190923200337",
             "StackId": "arn:aws:cloudformation:us-west-2:603554060869:stack/myapp-master-20190923200337/e7768710-de77-11e9-bdc2-0ab2e05eab74"
+        },
+        "categories": {
+            "auth": {
+                "myappb0e68308": {}
+            }
         }
     }
 }
